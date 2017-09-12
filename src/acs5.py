@@ -93,6 +93,9 @@ class Get_census_data(object):
 
         acs_demo['Percent_more_than_hs'] = (acs_demo['Some_college']+acs_demo['Associate']+acs_demo['Bachelors']+acs_demo['Graduate'])/acs_demo['Pop_over_25']
         self.education_percent.append('Percent_more_than_hs')
+
+        acs_demo['Percent_hh_w_children']=acs_demo['Hh_w_children']/acs_demo['Total_households_by_type']
+        
         return acs_demo
 
 
