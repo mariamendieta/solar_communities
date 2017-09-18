@@ -1,6 +1,6 @@
 # solar_communities
 
-##Objective
+## Objective
 
 This project aims to calculate the potential market size for solar panels in NY State.
 
@@ -13,7 +13,7 @@ Electricity prices: NY Iso
 
 ## Algorithm
 
-Gradient Boosting Classifier
+Gradient Boosting Classifier with sample weights
 
 ## Language
 
