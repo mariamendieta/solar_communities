@@ -8750,7 +8750,7 @@
           </metadata-records>
         </connection>
       </extract>
-      <layout dim-ordering='alphabetic' dim-percentage='0.593421' measure-ordering='alphabetic' measure-percentage='0.406579' rowDisplayCount='1000' show-hidden-fields='true' show-structure='true' user-set-layout='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.59375' measure-ordering='alphabetic' measure-percentage='0.40625' rowDisplayCount='1000' show-hidden-fields='true' show-structure='true' user-set-layout='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
